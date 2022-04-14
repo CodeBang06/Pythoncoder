@@ -1,5 +1,5 @@
 # Pythoncoder
-最易学的python编程
+小白最易学的python编程
 ## Pythoncoder
 - 阿斯顿
 - 第三方的
