@@ -31,3 +31,14 @@
 - 3-4 Python逻辑之程序循环 for
 - 3-5 Python逻辑之程序循环 while
 - 3-6 break，continue循环
+- 4-1 Python函数的定义和基本用法
+- 4-2 Python常见系统内置函数
+- 4-3 Python库的使用
+- 4-4 Python标准库os，sys
+- 4-5 Python标准库urllib，Requests
+- 4-6 日期与时间
+- 4-7 库管理工具pip
+- 4-8 json在Python中的应用
+- 4-9 异常处理
+- 5-1 PYthon操作管理数据库
+- 5-2 Python操作数据库 aqlite
