@@ -15,7 +15,7 @@
 
 **教程目录如下**
 - [1-1 Python语言的历史和发展](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc11.md)
-- 1-2 我学会python能干什么
+- [1-2 我学会python能干什么](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc12.md)
 - 1-3 Python的诱惑
 - 1-4 Python程序的本质是什么
 - 1-5 Python语法格式和注释
