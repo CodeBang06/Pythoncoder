@@ -14,3 +14,20 @@
 - Python互动学习系统自带教程和运行环境，边学边练，沉浸式体验编程的乐趣和成就感！
 
 **教程目录如下**
+- 1-1 Python语言的历史和发展
+- 1-2 我学会python能干什么
+- 1-3 Python的诱惑
+- 1-4 Python程序的本质是什么
+- 1-5 Python语法格式和注释
+- 1-6 Python运算符
+- 2-1 和Python打招呼
+- 2-2 Python的变量
+- 2-3 Python变量的定义
+- 2-4 Python的数据类型
+- 2-5 字符串的进阶用法
+- 3-1 Python列表list
+- 3-2 Python的字典
+- 3-3 Python逻辑之流程控制 if
+- 3-4 Python逻辑之程序循环 for
+- 3-5 Python逻辑之程序循环 while
+- 3-6 break，continue循环
