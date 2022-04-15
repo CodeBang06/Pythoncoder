@@ -42,3 +42,8 @@
 - 4-9 异常处理
 - 5-1 PYthon操作管理数据库
 - 5-2 Python操作数据库 aqlite
+---
+持续更新中..........
+可以微信扫码加入Python交流群获取教程的配套资料
+
+![导出图片用](https://user-images.githubusercontent.com/103555341/163517273-b49113b8-1b06-4580-8b55-16f7f35d6987.png)
