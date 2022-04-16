@@ -19,12 +19,12 @@
 - [1-3 Python的诱惑](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc13.md)
 - [1-4 Python程序的本质是什么](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc14.md)
 - [1-5 Python语法格式和注释](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc15.md)
-- 1-6 Python运算符
-- 2-1 和Python打招呼
-- 2-2 Python的变量
-- 2-3 Python变量的定义
-- 2-4 Python的数据类型
-- 2-5 字符串的进阶用法
+- [1-6 Python运算符](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc16.md)
+- [2-1 和Python打招呼](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc21.md)
+- [2-2 Python的变量](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc22.md)
+- [2-3 Python变量的定义](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc23.md)
+- [2-4 Python的数据类型](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc24.md)
+- [2-5 字符串的进阶用法](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc25.md)
 - 3-1 Python列表list
 - 3-2 Python的字典
 - 3-3 Python逻辑之流程控制 if
