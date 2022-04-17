@@ -25,14 +25,14 @@
 - [2-3 Python变量的定义](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc23.md)
 - [2-4 Python的数据类型](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc24.md)
 - [2-5 字符串的进阶用法](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc25.md)
-- 3-1 Python列表list
-- 3-2 Python的字典
-- 3-3 Python逻辑之流程控制 if
-- 3-4 Python逻辑之程序循环 for
-- 3-5 Python逻辑之程序循环 while
-- 3-6 break，continue循环
-- 4-1 Python函数的定义和基本用法
-- 4-2 Python常见系统内置函数
+- [3-1 Python列表list](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc31.md)
+- [3-2 Python的字典](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc32.md)
+- [3-3 Python逻辑之流程控制 if](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc33.md)
+- [3-4 Python逻辑之程序循环 for](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc34.md)
+- [3-5 Python逻辑之程序循环 while](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc35.md)
+- [3-6 break，continue循环](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc36.md)
+- [4-1 Python函数的定义和基本用法](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc41.md)
+- [4-2 Python常见系统内置函数](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc42.md)
 - 4-3 Python库的使用
 - 4-4 Python标准库os，sys
 - 4-5 Python标准库urllib，Requests
