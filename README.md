@@ -33,17 +33,21 @@
 - [3-6 break，continue循环](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc36.md)
 - [4-1 Python函数的定义和基本用法](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc41.md)
 - [4-2 Python常见系统内置函数](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc42.md)
-- 4-3 Python库的使用
-- 4-4 Python标准库os，sys
-- 4-5 Python标准库urllib，Requests
-- 4-6 日期与时间
-- 4-7 库管理工具pip
-- 4-8 json在Python中的应用
-- 4-9 异常处理
-- 5-1 PYthon操作管理数据库
-- 5-2 Python操作数据库 aqlite
+- [4-3 Python库的使用](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc43.md)
+- [4-4 Python标准库os，sys](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc44.md)
+- [4-5 Python标准库urllib，Requests](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc45.md)
+- [4-6 日期与时间](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc46.md)
+- [4-7 库管理工具pip](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc47.md)
+- [4-8 json在Python中的应用](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc48.md)
+- [4-9 异常处理](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc49.md)
+- [5-1 PYthon操作管理数据库](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc51.md)
+- [5-2 Python操作数据库 aqlite](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc52.md)
 ---
+
+## 如果本项目能帮助到您，请右上角帮我们点亮 ★star 以示鼓励！
+
 持续更新中..........
-可以微信扫码加入Python交流群获取教程的配套资料
+
+可以微信扫码加入Python技术交流群获取教程的配套资料
 
 ![导出图片用](https://user-images.githubusercontent.com/103555341/163517273-b49113b8-1b06-4580-8b55-16f7f35d6987.png)
