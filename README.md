@@ -53,11 +53,13 @@
 - [5-2 Python操作数据库 aqlite](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc52.md)
 
 持续更新中..........
-### 
+#
 
-## 如果本项目能帮助到您，请右上角帮我们点亮 ★star 以示鼓励！
+### 如果本项目能帮助到您，请右上角帮我们点亮 ★star 以示鼓励！
 
 请微信扫码加入Python技术交流群获取教程的配套资料
 
-![75](https://user-images.githubusercontent.com/103555341/163767485-c2e8ac79-ad60-43b1-96bf-a7e68a4b0660.jpg)
+![75](https://user-images.githubusercontent.com/103555341/163770456-42dbd01a-60c2-48f4-9321-04849ac35436.jpg)
+
+
 
