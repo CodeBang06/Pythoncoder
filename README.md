@@ -51,12 +51,12 @@
 - [4-9 异常处理](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc49.md)
 - [5-1 PYthon操作管理数据库](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc51.md)
 - [5-2 Python操作数据库 aqlite](https://github.com/CodeBang06/Pythoncoder/blob/main/kc/kc52.md)
+持续更新中..........
 ---
 
 ## 如果本项目能帮助到您，请右上角帮我们点亮 ★star 以示鼓励！
 
-持续更新中..........
-
 请微信扫码加入Python技术交流群获取教程的配套资料
 
-![导出图片用](https://user-images.githubusercontent.com/103555341/163517273-b49113b8-1b06-4580-8b55-16f7f35d6987.png)
+![75](https://user-images.githubusercontent.com/103555341/163767485-c2e8ac79-ad60-43b1-96bf-a7e68a4b0660.jpg)
+
