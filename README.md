@@ -62,6 +62,7 @@
 #
 ### ### 团队其他项目-如本项目能帮助到您，请右上角帮我们点亮 ★star 以示鼓励！
 - [Python语法基础课Python-syntax-courses](https://github.com/CodeBang06/Python-syntax-courses)
+- [Python 经典小例子、小案例](https://github.com/CodeBang06/python-examples/blob/master/README.md)
 - [Ashare最简股票行情数据接口API,A股行情完全开源免费](https://github.com/CodeBang06/Ashare)
 
 请微信扫码加入Python技术交流群获取教程的配套资料
