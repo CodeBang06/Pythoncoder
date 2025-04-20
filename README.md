@@ -86,7 +86,8 @@
 
 请微信扫码加入宽友技术交流群，群友畅所欲言，互通有无，共同提高量化水平，群里不定期提供量化资料供大家研究。
 
-![春风微码](https://github.com/user-attachments/assets/506f5a70-8b29-4065-9e67-a65ccc4221b2)
+![风吹麦浪](https://github.com/user-attachments/assets/78224a6a-3d1f-4546-998a-b719964e07bf)
+
 
 ### 本站其他项目-如本项目能帮助到您，请右上角帮我们点亮 ★star 以示鼓励！
 - [Python语法基础课Python-syntax-courses](https://github.com/CodeBang06/Python-syntax-courses)
