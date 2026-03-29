@@ -86,8 +86,7 @@
 
 请用QQ扫码加入宽友技术交流群，群友畅所欲言，互通有无，共同提高量化水平，群里不定期提供量化资料供大家研究。
 
-![春光里](https://github.com/user-attachments/assets/6c01b496-32da-4a26-b656-9e3638b1b92d)
-
+![万象github](https://github.com/user-attachments/assets/01c8863d-2ce9-4b4d-9dc2-fd6ba04744ae)
 
 
 ### 本站其他项目-如本项目能帮助到您，请右上角帮我们点亮 ★star 以示鼓励！
